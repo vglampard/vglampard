@@ -11,3 +11,5 @@ Day 4: Had a mindset seminar about how, when, and why seeking feedback helps gro
 Day 5: Hackathon 1. Created a simple rock paper scissors game, using player's name (10 character limit, must begin with upper case letter) and input (rock, paper, or scissors) to play against randomised moves from the computer player. The game kept a running total of losses, wins, and ties. 
 
 Day 6: Introduction to codewars. Introduction to the document object model, and how to manipulate it using JS. We ran through a couple of workshops where we changed, added, and removed elements, and properties of elements. For example, appneding a number-doubling button to a webpage, or allowing users to change the webpage h1 using an HTML form. 
+
+Day 7: Introduction to event listeners, and how to use them. We did some pair exercises, and then moved onto changing codee from the rock paper scissors exercises so that instead of taking input from prompts, and displaying results in the console and via alerts, all this was done through interacting with the webpage itself. 

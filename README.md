@@ -30,4 +30,8 @@ Day 14: Mindset talk about identifying our listening styles and being attentive 
 
 Day 15: hackathon 3. We refined and polished the user personas, user stories, and ideas that we'd come up with for our bootcamp. We took our low fidelity wireframe and improved upon it, then embellished this and turned it into a high fidelity mockup on figma. 
 
-Day 16: Introduction to NodeJS. We started following up on last week's recap task - using the design process to mock up a personal portfolio page. Then we got an overview of what NodeJS is and how it works. We made a simple module that produces a greeting using three different variables from a separate document. Then we moved onto addint a second functinoality that picks a random user from the bootcamper list.  
+Day 16: Introduction to NodeJS. We started following up on last week's recap task - using the design process to mock up a personal portfolio page. Then we got an overview of what NodeJS is and how it works. We made a simple module that produces a greeting using three different variables from a separate document. Then we moved onto adding a second functinoality that picks a random user from the bootcamper list.  
+
+Day 17: Instead of custome modules, today we looked at native modules .We used fs to read/write files in our user data app. Then we imported a third party package, express, to build a basic server. This server used UUID to assign a random ID to user objects, which we would then read and add to - e.g., adding a new user to our userData array. We also looked at how we can use destructuring to more efficiently pull out items from an imported array.
+
+Day 18: We praticed using Postman to simulate simple requests of different types. We imported Nodemon as a dev dependency to make building our API easier. Then we did a deeper dive into APIs by building out functionality for a simple API - cwissy.API. FOr this, we coded route handlers.

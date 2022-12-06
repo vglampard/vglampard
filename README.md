@@ -64,4 +64,29 @@ Day 30: Hackathon 6. Used Cypress to build and run end-to-end testing on a simpl
  
  Day 31: Introduction to React. Looked at how React allows us to offload a lot of the manual updating code involved in making dynamic front ends - uses a virtual DOM, and diffs between that and the browser DOM, subsequently  updating only the parts that have changed (and their children!). Looked at Babel and JSX, and spent time coding up elements with and without JSX to demonstrate what's going on underneath - and why JSX is so useful. Then moved onto how we pass in props to make dynamic components. SPent time afterwards lokoing into conditional rendering, 'rules of react', how the separation of concerns is different to what we've done to date, and brushing up on JS.
  
- Day 32:
+ Day 32: Talk from Nick Truby, front end developer at BT, to get a sense of what enterprise scale react apps look like in terms of structure and complexity. Looked at mutating/immutable array methods like filter() and some(), prop destructuring, and parent/child component structures. Sketched out component tree for netflix page and mocked it up by spinning up a simple react app with card components inside.
+ 
+ Day 33: Intro to react hook useState: what it's for, how to use it, where it should go. Looked at lifting state, and how props and state-setting functions get passed around the component tree. 
+ 
+ Day 34: Mindset talk from Will Peachy about communication styles, and the value of knowing yours in teams (especially agile ones). Practiced combining immutable array methods with the spread operator, and spreading nested objects to avoid making shallow copies. Continued to cover spread/slice and array.map to render multiple coponents dynamically - and adding unique identifiers with UUID or Math.random(). 
+ 
+ Day 35: Hackathon 7. Use useState and react to build a simple to-do lists app.
+ 
+ Day 36: Refresher talk from Nadeem and Camille Fenton from Talis about API and restful restrictions. Then, useEffect hook and the importance of catching any DOM changes that don't go via react app somewhere they can be controlled. It's a way of keeping component functions pure! And is only a last resort - where possible, use event listeners. Useful for API calls, and dependencies can be added to control when a rerender is triggered.  
+ 
+ Day 37: A closer look at git branching, pull requests, and conflict resolution. Then, looked at useReducer: allows us to control state changes by creating a finite state machine, and works with dispatch and actions. 
+ 
+ Day 38: Talk from Will Peachy about he employent process and market patterns to watch out for. Then, deeper dive into react testing library (and a refresher on the pros/cons of testing). The importance of prioritising query methods that are most exposed on the accessibility tree (getByRole, aria labels). We're not esting the actual DOM, just a lightweight and very similar rendering of it - there will be drawbacks. Looked ad conditional rendering using switch. 
+ 
+ Day 39: Mindset talk about team dynamics, conflict protocol, team manifestos, and decision making frameworks. Reflection upon my own teamwork strengths, weaknesses, and values. Then moved onto how to test react functions using react testing library and jests.fn(). 
+ 
+ Day 40: Project week day 1. Set up agile framework, team manifesto, and values. Discussed possible areas of weakness and strength and ways to manage. Branstormed from project brief; settled on concept; completed disney ideation and completed user stories and MVP requirements. Broke down project into stories, tasks, and stretch goals, and drew up lo-fi wireframe on figma. Created component tree with information flow and functions. Set up database and back-end skeleton. 
+ 
+ Day 41: Project week day 2. DevOps talk from Rik Marselis looking at high performance IT delivery, and the different kinds of preventative quality measures and test coverages that can be used - and when you'd use them (including regression testing bs progression testing). Built trello board with kanban task breakdown, then finished backend CRUD routes (with extra for stretch goals) and continued work on front end.  
+ 
+ Day 42:  Project week day 3. Tweaked database to ensure back end and front end were working with the same data. Continued to add back end testing, then added rop down menus and completed the front end MVP using custom form hook. Linked up the front and backend, using the CORS middleware. 
+ 
+ Day 43:  Project week day 4. Code review to identify functional weak points which we then cleaned up. Here, commented through our code to keep things legible and well defined. Then, high-fidelity wireframe with accessibility and branding in mind so we could spend the remainder of the day on front-end testing and CSS. 
+ 
+ Day 44:  Project week day 5. Put ogether and polished presentation of final app: page displaying cards that detail resources shared by other bootcampers and coaches on the SoC course - with form so that users can contribute their own. The resource cards have a topic image (conditionally rendered based on topic input), H1 title that opens a new tab to the resource; tag identifying who contribute the resource, and a difficulty ratin renderes as one, two, or three images based on the level of difficulty. Input form gathers data using custom form hook.
+ 

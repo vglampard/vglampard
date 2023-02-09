@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Victoria</h1>
+<h1 align="center">Hi👋, I'm Victoria</h1>
 <h3 align="center">Linguist turned freshly-minted fullstack dev</h3>
 
-- 🔭 I’m currently working on **What's Your Poison**
+- 🔭 I’m currently working on **What's Your Poison** - helping you keep track of which drinks you can't mix. Node.js/Express/PostgreSQL/React/Bootstrap. Repo [here]([url](https://github.com/vglampard/pick-your-poison)).
 
-- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures**
+- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures** - with Colt Steele, and generally tightening up my JS/SQL. 
+
+- ✨ See where I started off (and how it's going) with my #100DaysOfCode, repo [here]([url](https://github.com/vglampard/Learning)).
 
 - 📫 How to reach me **vglampard@protonmail.com**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Victoria</h1>
+<h1 align="center">Hi, I'm Victoria</h1>
 <h3 align="center">Linguist turned freshly-minted fullstack dev</h3>
 
 - 🔭 I’m currently working on **What's Your Poison** - helping you keep track of which drinks you can't mix. Node.js/Express/PostgreSQL/React/Bootstrap. Repo [here](https://github.com/vglampard/pick-your-poison).

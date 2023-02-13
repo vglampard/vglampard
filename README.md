@@ -10,9 +10,10 @@
 
 - 📫 How to reach me **vglampard@protonmail.com**
 
-| Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) | [Live](https://amigostravel.netlify.app/) // [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)  |
+|PROJECT | What | Where | Look|
 |--------------------|---------------------------------------|--------------|---------------|
-| GoGram             | Google search meets Instagram display | [Code](link) | [Live](link)(https://go-gram.netlify.app/)  |
+| Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) & [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)   | [Live](https://amigostravel.netlify.app/) |
+| GoGram             | Google search meets Instagram display | [Code](link) | [Live](https://go-gram.netlify.app/)  |
 | Weather App        | TS weather app with weather visuals   | [Code](link) | [Live](https://weathervisuals.netlify.app/)  |
 | Dingo's Directives | Store and share bootcamper resources  | [Code](link) |               |
 | What's Your Poison | Track which drinks make you what      | [Code](link) |               |

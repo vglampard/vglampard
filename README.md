@@ -10,6 +10,13 @@
 
 - 📫 How to reach me **vglampard@protonmail.com**
 
+| Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) | [Live](https://amigostravel.netlify.app/) // [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)  |
+|--------------------|---------------------------------------|--------------|---------------|
+| GoGram             | Google search meets Instagram display | [Code](link) | [Live](link)(https://go-gram.netlify.app/)  |
+| Weather App        | TS weather app with weather visuals   | [Code](link) | [Live](https://weathervisuals.netlify.app/)  |
+| Dingo's Directives | Store and share bootcamper resources  | [Code](link) |               |
+| What's Your Poison | Track which drinks make you what      | [Code](link) |               |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vg_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vg_code" height="30" width="40" /></a>

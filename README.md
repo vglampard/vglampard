@@ -10,13 +10,13 @@
 
 - 📫 How to reach me **vglampard@protonmail.com**
 
-|PROJECT | What | Where | Look|
+|What | But what? | How | Where|
 |--------------------|---------------------------------------|--------------|---------------|
 | Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) & [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)   | [Live](https://amigostravel.netlify.app/) |
-| GoGram             | Google search meets Instagram display | [Code](link) | [Live](https://go-gram.netlify.app/)  |
-| Weather App        | TS weather app with weather visuals   | [Code](link) | [Live](https://weathervisuals.netlify.app/)  |
-| Dingo's Directives | Store and share bootcamper resources  | [Code](link) |               |
-| What's Your Poison | Track which drinks make you what      | [Code](link) |               |
+| GoGram             | Google search meets Instagram display | [Code](https://github.com/vglampard/gogram) | [Live](https://go-gram.netlify.app/)  |
+| Weather App        | TS weather app with weather visuals   | [Code](https://github.com/vglampard/weather-app) | [Live](https://weathervisuals.netlify.app/)  |
+| Dingo's Directives | Store and share bootcamper resources  | [Frontend](https://github.com/SchoolOfCode/bc13_w9_project-frontend-dingo) & [Backend](https://github.com/SchoolOfCode/bc13_w9_project-backend-dingo)|               |
+| What's Your Poison | Fullstack hangover tracker app     | [Frontend](https://github.com/vglampard/pick-your-poison-fe) & [Backend](https://github.com/vglampard/pick-your-poison) |        Work in progress!       |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

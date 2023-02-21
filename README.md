@@ -12,6 +12,7 @@
 
 |What | But what? | How | Where|
 |--------------------|---------------------------------------|--------------|---------------|
+|Internal tool |Company research tool for major tech vacancies board|[Code](https://github.com/vglampard/company-research)|[Live](https://company-research.netlify.app/)|
 | Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) & [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)   | [Live](https://amigostravel.netlify.app/) |
 | GoGram             | Google search meets Instagram display | [Code](https://github.com/vglampard/gogram) | [Live](https://go-gram.netlify.app/)  |
 | Weather App        | TS weather app with weather visuals   | [Code](https://github.com/vglampard/weather-app) | [Live](https://weathervisuals.netlify.app/)  |

@@ -6,6 +6,8 @@
 
 - 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently getting to grips with the codebase and new tech stack elements => especially React Native.
 
+- 💻 I've got a simple research-streamlining app currently piloting with the content team over at [Otta](https://app.otta.com/)
+
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures** - with Colt Steele, and generally tightening up my JS/SQL. 
 
 - ✨ See where I started off (and how it's going) with my #100DaysOfCode, repo [here](https://github.com/vglampard/Learning).

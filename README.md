@@ -1,6 +1,6 @@
               
 <h1 align="center">Hi, I'm Victoria</h1>
-<h3 align="center"></h3> Fullstack developer
+<h3 align="center">Need a fullstack developer?</h3> 
 
 - 🔭 I’m currently working on a **"password improvement tool** - I was looking into hashing, salting, and peppering, and thought it could be used to help people build better passwords from the get go. Watch this space - and, look at my projects highlights below for other work!
 

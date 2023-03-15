@@ -1,20 +1,20 @@
               
 <h1 align="center">Hi, I'm Victoria</h1>
-<h3 align="center">Linguist turned freshly-minted fullstack dev</h3>
+<h3 align="center"></h3> Fullstack developer
 
-- 🔭 I’m currently working on **What's Your Poison** - helping you keep track of which drinks you can't mix. Node.js/Express/PostgreSQL/React/Bootstrap. Repo [here](https://github.com/vglampard/pick-your-poison).
+- 🔭 I’m currently working on a **"password improvement tool** - I was looking into hashing, salting, and peppering, and thought it could be used to help people build better passwords from the get go. Watch this space - and, look at my projects highlights below for other work!
 
-- 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently getting to grips with the codebase and new tech stack elements => especially React Native.
+- 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently diving into more advanced TypeScript and API versioning.
 
-- 💻 I've got a simple research-streamlining app currently piloting with the content team over at [Otta](https://app.otta.com/)
+- 💻 I've got a [research-streamlining app](https://company-research.netlify.app/) currently piloting with the content team over at [Otta](https://app.otta.com/)
 
-- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures** - with Colt Steele, and generally tightening up my JS/SQL. 
+- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures** - with Colt Steele, and generally tightening up my JS and scripting. 
 
-- ✨ See where I started off (and how it's going) with my #100DaysOfCode, repo [here](https://github.com/vglampard/Learning).
+- ✨ See what I'm up to this month in my [learning audit](https://marbled-platypus-c77.notion.site/Learning-09fa968fd000480c8dabc461e2597707), and see where I started off with my #100DaysOfCode, repo [here](https://github.com/vglampard/Learning).
 
-- 📫 How to reach me **vglampard@protonmail.com**
+- 📫 How to reach me: **vglampard@protonmail.com**
 
-|What | But what? | How | Where|
+|What? | But...what? | How? | Where?|
 |--------------------|---------------------------------------|--------------|---------------|
 |Internal tool |Company research tool for major tech vacancies board|[Code](https://github.com/vglampard/company-research)|[Live](https://company-research.netlify.app/)|
 |Payback Machine | Consolidate messy group bills into a single payback amount | [Code](https://github.com/vglampard/bill-splitter) | [Live](https://payback-machine.netlify.app/)

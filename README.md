@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Victoria</h1>
 <h3 align="center">Need a fullstack developer?</h3> 
 
-- 🔭 I’m currently working on a **"password improvement tool** - I was looking into hashing, salting, and peppering, and thought it could be used to help people build better passwords from the get go. Watch this space - and, look at my projects highlights below for other work!
+- 🔭 I’m currently working on a **password management tool** - I was looking into hashing, salting, and peppering, and thought they could be used in a simple app that helps people create and retrieve passwords. Watch this space - and, look at my projects highlights below for other work!
 
 - 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently diving into more advanced TypeScript and API versioning.
 

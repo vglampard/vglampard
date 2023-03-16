@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Victoria</h1>
 <h3 align="center">Need a fullstack developer?</h3> 
 
-- 🔭 I’m currently working on a **password management tool** - I was looking into hashing, salting, and peppering, and thought they could be used in a simple app that helps people create and retrieve passwords. Watch this space - and, look at my projects highlights below for other work!
+- 🔭 I’m currently working on a **password management tool** - I was looking into hashing, salting, and peppering, and thought they could be used in a tool that helps people create and retrieve secure passwords far more simply! Because password managers are great, but what if you're on a public or shared device?
 
 - 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently diving into more advanced TypeScript and API versioning.
 
@@ -17,7 +17,8 @@
 |What? | But...what? | How? | Where?|
 |--------------------|---------------------------------------|--------------|---------------|
 |Internal tool |Company research tool for major tech vacancies board|[Code](https://github.com/vglampard/company-research)|[Live](https://company-research.netlify.app/)|
-|Payback Machine | Consolidate messy group bills into a single payback amount | [Code](https://github.com/vglampard/bill-splitter) | [Live](https://payback-machine.netlify.app/)
+|Payback Machine | Consolidate messy group bills into a single payback amount | [Code](https://github.com/vglampard/bill-splitter) | [Live](https://payback-machine.netlify.app/)|
+|Unforgettable Secure Passwords | SHA-256 hashed password generation and retrieval tool | [Code](https://github.com/vglampard/better-password) | [Live](https://your-better-password.netlify.app/)|
 | Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) & [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)   | [Live](https://amigostravel.netlify.app/) |
 | GoGram             | Google search meets Instagram display | [Code](https://github.com/vglampard/gogram) | [Live](https://go-gram.netlify.app/)  |
 | Weather App        | TS weather app - plug in a snowy/rainy location to get nice TSParticles visuals.   | [Code](https://github.com/vglampard/weather-app) | [Live](https://weathervisuals.netlify.app/)  |

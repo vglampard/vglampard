@@ -17,6 +17,7 @@
 |--------------------|---------------------------------------|--------------|---------------|
 |Internal tool |Company research tool for major tech vacancies board|[Code](https://github.com/vglampard/company-research)|[Live](https://company-research.netlify.app/)|
 |Payback Machine | Consolidate messy group bills into a single payback amount | [Code](https://github.com/vglampard/bill-splitter) | [Live](https://payback-machine.netlify.app/)|
+| Angular Pokédex | Another PokeApi project - Angular, Boostrap | [Code](https://github.com/vglampard/pokemon-angular) | [Live](https://pokepedia-angular.netlify.app/) |
 |Unforgettable Secure Passwords | SHA-256 hashed password generation and retrieval tool | [Code](https://github.com/vglampard/better-password) | [Live](https://your-better-password.netlify.app/)|
 | Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) & [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)   | [Live](https://amigostravel.netlify.app/) |
 | GoGram             | Google search meets Instagram display | [Code](https://github.com/vglampard/gogram) | [Live](https://go-gram.netlify.app/)  |

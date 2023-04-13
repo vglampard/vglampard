@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures** - with Colt Steele, and generally tightening up my JS and scripting. 
 
-- ✨ See what I'm up to this month in my [learning audit](https://marbled-platypus-c77.notion.site/Learning-09fa968fd000480c8dabc461e2597707), and see where I started off with my #100DaysOfCode, repo [here](https://github.com/vglampard/Learning).
 
 - 📫 How to reach me: **vglampard@protonmail.com**
 

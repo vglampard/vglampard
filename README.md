@@ -2,6 +2,8 @@
 <h1 align="center">Hi, I'm Victoria</h1>
 <h3 align="center">Need a full stack developer?</h3> 
 
+See [my portfolio](https://victorialampard.netlify.app/) for more. But...
+
 - 🔭 I’m currently working on a **Nostr client** ([Nostrami!](https://github.com/vglampard/nostr-client-test)) - Nostr's a "simple, open protocol that enables a truly censorship-resistant and global social network" that was launched late last year, where signed messages are exchanged through various relays - credentials are just a public/private key pair. So I'm tooling around to see what's possible - the MVP's up (but VERY rudimentary), but watch out for when it really gets going! 
 
 - 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently diving into more advanced TypeScript and API versioning.

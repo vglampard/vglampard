@@ -1,6 +1,6 @@
               
-<h1 align="center">Hi, I'm Victoria</h1>
-<h3 align="center">Need a full stack developer?</h3> 
+<h1 align="center"> Victoria Lampard</h1>
+<h3 align="center">Full stack developer</h3> 
 
 See [my portfolio](https://victorialampard.netlify.app/) for more. But...
 

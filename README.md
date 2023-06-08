@@ -4,14 +4,11 @@
 
 See [my portfolio](https://victorialampard.netlify.app/) for more. But...
 
-- 🔭 I’m currently working on a **Nostr client** ([Nostrami!](https://github.com/vglampard/nostr-client-test)) - Nostr's a "simple, open protocol that enables a truly censorship-resistant and global social network" that was launched late last year, where signed messages are exchanged through various relays - credentials are just a public/private key pair. So I'm tooling around to see what's possible - the MVP's up (but VERY rudimentary), but watch out for when it really gets going! 
+- 🔭 I’m currently working on a **Nostr client** ([Nostrami!](https://github.com/vglampard/nostr-client-test)) - Nostr's a "simple, open protocol that enables a truly censorship-resistant and global social network" that was launched late last year, where signed messages are exchanged through various relays - credentials are just a public/private key pair. So I'm tooling around to see what's possible.
 
 - 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently diving into more advanced TypeScript and API versioning.
 
 - 💻 I've got a [research-streamlining app](https://company-research.netlify.app/) currently piloting with the content team over at [Otta](https://app.otta.com/)
-
-- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures** - with Colt Steele, and generally tightening up my JS and scripting. 
-
 
 - 📫 How to reach me: **vglampard@protonmail.com**
 

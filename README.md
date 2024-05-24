@@ -2,16 +2,6 @@
 <h1 align="center"> Victoria Lampard</h1>
 <h3 align="center">Full stack developer</h3> 
 
-See [my portfolio](https://victorialampard.netlify.app/) for more. But...
-
-- 🔭 I’m currently working on a **Nostr client** ([Nostrami!](https://github.com/vglampard/nostr-client-test)) - Nostr's a "simple, open protocol that enables a truly censorship-resistant and global social network" that was launched late last year, where signed messages are exchanged through various relays - credentials are just a public/private key pair. So I'm tooling around to see what's possible.
-
-- 🙋 I'm volunteering with the [Scottish Tech Army](https://github.com/Scottish-Tech-Army) team to help build a mobile app to help volunteers browse and connect with tech-for-good opportunities. Currently diving into more advanced TypeScript and API versioning.
-
-- 💻 I've got a [research-streamlining app](https://company-research.netlify.app/) currently piloting with the content team over at [Otta](https://app.otta.com/)
-
-- 📫 How to reach me: **vglampard@protonmail.com**
-
 |What? | But...what? | How? | Where?|
 |--------------------|---------------------------------------|--------------|---------------|
 | Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) & [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)   | [Live](https://amigostravel.netlify.app/) |
@@ -21,7 +11,6 @@ See [my portfolio](https://victorialampard.netlify.app/) for more. But...
 |Internal tool |Company research tool for major tech vacancies board|[Code](https://github.com/vglampard/company-research)|[Live](https://company-research.netlify.app/)|
 | Weather App        | TS weather app - plug in a snowy/rainy location to get nice TSParticles visuals.   | [Code](https://github.com/vglampard/weather-app) | [Live](https://weathervisuals.netlify.app/)  |
 | Dingo's Directives | Store and share bootcamper resources  | [Frontend](https://github.com/SchoolOfCode/bc13_w9_project-frontend-dingo) & [Backend](https://github.com/SchoolOfCode/bc13_w9_project-backend-dingo)|               |
-| What's Your Poison | Fullstack hangover tracker app     | [Frontend](https://github.com/vglampard/pick-your-poison-fe) & [Backend](https://github.com/vglampard/pick-your-poison) |        Work in progress!       |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,16 +2,6 @@
 <h1 align="center"> Victoria Lampard</h1>
 <h3 align="center">Full stack developer</h3> 
 
-|What? | But...what? | How? | Where?|
-|--------------------|---------------------------------------|--------------|---------------|
-| Amigo              | Fullstack travel companion app        | [Frontend](https://github.com/SchoolOfCode/bc13_final-project_front-end-3-amigos/tree/main/travel-frontend) & [Backend](https://github.com/SchoolOfCode/bc13_final-project_back-end-3-amigos)   | [Live](https://amigostravel.netlify.app/) |
-|Payback Machine | Consolidate messy group bills into a single payback amount | [Code](https://github.com/vglampard/bill-splitter) | [Live](https://payback-machine.netlify.app/)|
-| Angular Pokédex | Another PokeApi project - Angular, Boostrap | [Code](https://github.com/vglampard/pokemon-angular) | [Live](https://pokepedia-angular.netlify.app/) |
-|Unforgettable Secure Passwords | SHA-256 hashed password generation and retrieval tool | [Code](https://github.com/vglampard/better-password) | [Live](https://your-better-password.netlify.app/)|
-|Internal tool |Company research tool for major tech vacancies board|[Code](https://github.com/vglampard/company-research)|[Live](https://company-research.netlify.app/)|
-| Weather App        | TS weather app - plug in a snowy/rainy location to get nice TSParticles visuals.   | [Code](https://github.com/vglampard/weather-app) | [Live](https://weathervisuals.netlify.app/)  |
-| Dingo's Directives | Store and share bootcamper resources  | [Frontend](https://github.com/SchoolOfCode/bc13_w9_project-frontend-dingo) & [Backend](https://github.com/SchoolOfCode/bc13_w9_project-backend-dingo)|               |
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vg_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vg_code" height="30" width="40" /></a>
